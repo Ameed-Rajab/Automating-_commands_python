@@ -1,0 +1,6 @@
+Delete test.txt C:\project_test
+Rename johny.txt Ahmad.txt C:\project_test
+Mv_last C:\project_test C:\project_test2
+ListFiles C:\project_test
+Count C:\project_test
+Count C:\project_test
